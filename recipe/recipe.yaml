@@ -12,7 +12,7 @@ source:
   sha256: 635dbaa6def7438240032a6ea70ae0f2249868d50df17e16bfd564591e30692c
 
 build:
-  number: 0
+  number: 1
 
 requirements:
   build:
@@ -35,4 +35,3 @@ about:
 extra:
   recipe-maintainers:
     - danielnachun
-
